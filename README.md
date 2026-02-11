@@ -1,3 +1,3 @@
-:technologist: Solutions Architect · :rocket: JavaScript / TypeScript · :cloud: Google Cloud, AWS, 
-Terraform · :wrench: sometimes good old plain servers · :heart: Next.js + TailwindCSS for hobby 
-projects · :mountain: mountains are my happy place
+:technologist: Staff Architect | Systems thinking & cloud-native design · :rocket: TypeScript / JavaScript · :cloud: GCP, AWS,
+Kubernetes, Terraform · :wrench: Grounded in Linux roots and performance tuning · :heart: Astro, Next.js & TailwindCSS for side
+projects · :mountain: Mountains are my happy place
